@@ -1,4 +1,4 @@
-**WELCOME TO MY PAGE**👋👋👋 \\
+**WELCOME TO MY PAGE**👋👋👋 \
  My name is Vu Van Anh . I am a student at Ha Noi University of Science and Technology  
 - 👀 I’m interested in the following topics such that: Embedded Systems C/C++, Computer Vision, and Ai.
 - 🌱 I’m currently learning at Ha Noi University and FPT Academy.
