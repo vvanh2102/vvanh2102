@@ -1,5 +1,4 @@
-# 💫About Me :
-**WELCOME TO MY PAGE**👋👋👋 \
+# WELCOME TO MY PAGE 👋👋👋:
  My name is Vu Van Anh . I am a student at Ha Noi University of Science and Technology  
 - 👀 I’m interested in the following topics: Embedded Systems C/C++, Computer Vision, and AI.
 - 🌱 I’m currently learning Mechatronic Engineering at Ha Noi University and C embedded at FPT Academy.
@@ -10,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=vvanh2102&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vvanh2102&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Quote
+### Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
