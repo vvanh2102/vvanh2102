@@ -4,7 +4,7 @@
   <h3 align="center"> A person who is passionate about creating technology products  </h3>
 </p>
 
-- ✍ I'm a student at: [Ha Noi University of Science and Technology) (HUST).
+- ✍ I'm a student at: [Ha Noi University of Science and Technology] (HUST).
 
 - 🌱 I’m currently learning **MECHATRONIC ENGINEERING**
 
